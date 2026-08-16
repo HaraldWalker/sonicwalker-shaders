@@ -36,7 +36,7 @@ shaders/
     my-shader/
       my-shader.frag        # VS2 version
       my-shader.fs          # ISF version (where available)
-      preview.png           # Screenshot
+      my-shader.png         # Screenshot
   effects/
     ...                      # Future effects
 ```
