@@ -7,7 +7,9 @@ title: Xor Panes
 
 ## Xor Panes
 
-![Xor Panes](https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/xor-panes/xor-panes.png)
+<video controls preload="none" poster="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/xor-panes/xor-panes.png" style="width:100%;border-radius:8px;">
+  <source src="https://github.com/user-attachments/assets/36cb2688-34ec-499a-ba48-f021932b02a9" type="video/mp4">
+</video>
 
 Multiple layers of animated rectangles and circles. Each pane has a distinct hue and contains randomly placed shapes that move along sinusoidal paths. Brightness is quantized based on how many panes overlap at each pixel. In VS2, map audio or MIDI to the parameters to make it reactive.
 

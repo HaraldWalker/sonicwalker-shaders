@@ -33,7 +33,7 @@ A 3×3×3 grid of cubes rendered with raymarching.
 
 Multiple layers of animated rectangles and circles with quantized brightness based on overlap count.
 
-**Files:** [xor-panes.frag](shaders/generators/xor-panes/xor-panes.frag) (VS2) · [xor-panes.fs](shaders/generators/xor-panes/xor-panes.fs) (ISF)
+**Files:** [xor-panes.frag](shaders/generators/xor-panes/xor-panes.frag) (VS2) · [xor-panes.fs](shaders/generators/xor-panes/xor-panes.fs) (ISF) · [Demo](https://haraldwalker.github.io/sonicwalker-shaders/shaders/xor-panes)
 
 ## Structure
 
