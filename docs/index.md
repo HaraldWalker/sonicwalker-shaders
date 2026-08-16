@@ -36,6 +36,11 @@ title: Shaders
     <h3>Fuzzy Cubes</h3>
     <p>A grid of pulsing cubes with volumetric glow rendered with raymarching</p>
   </a>
+  <a href="{{ site.baseurl }}/shaders/classic-oscilloscope" class="shader-card">
+    <img src="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/classic-oscilloscope/classic-oscilloscope.png" alt="Classic Oscilloscope" loading="lazy">
+    <h3>Classic Oscilloscope</h3>
+    <p>Retro CRT oscilloscope displaying audio waveform with green phosphor glow</p>
+  </a>
 </div>
 
 <style>
