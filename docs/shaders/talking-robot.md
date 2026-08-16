@@ -8,7 +8,7 @@ title: Talking Robot
 ## Talking Robot
 
 <video controls preload="none" poster="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/talking-robot/talking-robot.png" style="width:100%;border-radius:8px;">
-  <source src="https://private-user-images.githubusercontent.com/2520109/636650931-9bc04c61-de62-41b2-a487-75ec36575816.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODY4OTEwODMsIm5iZiI6MTc4Njg5MDc4MywicGF0aCI6Ii8yNTIwMTA5LzYzNjY1MDkzMS05YmMwNGM2MS1kZTYyLTQxYjItYTQ4Ny03NWVjMzY1NzU4MTYubXA0P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDgxNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA4MTZUMTQzMzAzWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MGZmZDQ1ZDhmZTZmMTU3NDhjZTc4YmQ4NDg0OWEzYzdmNTI2NTZmMDFiODZlYzNhZGJiNzU1OGEyZWUwYzg2NCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPXZpZGVvJTJGbXA0In0.6lsOPJyVrG-UgiRG0YagEz6emo6oPdCakCfy_UHwECs" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/9bc04c61-de62-41b2-a487-75ec36575816" type="video/mp4">
 </video>
 
 A robot face built from 2D signed distance functions — rounded box head, circle eyes, animated pupils that blink, eyebrows that react to the talk parameter, and a mouth that morphs from a closed line to an open shape. An antenna ball glows on top. In VS2, map audio or MIDI to the talk parameter to make it speak.
