@@ -47,6 +47,9 @@ Download the `.fs` file(s) and import them into your ISF-compatible host (VDMX, 
 
 <a href="https://haraldwalker.github.io/sonicwalker-shaders/shaders/classic-oscilloscope"><img src="shaders/generators/classic-oscilloscope/classic-oscilloscope.png" width="320" alt="Classic Oscilloscope"></a>
 
+#### Spectral Terrain Grid
+
+<a href="https://haraldwalker.github.io/sonicwalker-shaders/shaders/spectral-terrain-grid"><img src="shaders/generators/spectral-terrain-grid/spectral-terrain-grid.png" width="320" alt="Spectral Terrain Grid"></a>
 ## Structure
 
 Each shader lives in its own folder under `shaders/generators/` or `shaders/effects/`:
