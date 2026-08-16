@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <style>
+    :root {
+      --bg: #0d1117;
+      --surface: #161b22;
+      --border: #30363d;
+      --text: #e6edf3;
+      --text-muted: #8b949e;
+      --accent: #58a6ff;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+    }
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    header {
+      border-bottom: 1px solid var(--border);
+      padding: 1.5rem 2rem;
+    }
+    header h1 { font-size: 1.25rem; font-weight: 600; }
+    header h1 a { color: var(--text); }
+    header h1 a:hover { text-decoration: none; }
+    main {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 2rem;
+    }
+    footer {
+      border-top: 1px solid var(--border);
+      padding: 1.5rem 2rem;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: 0.875rem;
+      margin-top: 4rem;
+    }
+  </style>
+  {% if page.head_extra %}{{ page.head_extra }}{% endif %}
+</head>
+<body>
+  <header>
+    <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+  </header>
+  <main>
+    {{ content }}
+  </main>
+  <footer>
+    <p>Shaders by <a href="https://www.sonicwalker.com">Sonic Walker</a> · Made for <a href="https://imaginando.github.io/vs/">VS2</a></p>
+  </footer>
+</body>
+</html>

@@ -19,12 +19,13 @@ Download the `.fs` file(s) and import them into your ISF-compatible host (VDMX, 
 
 ### Generators
 
-<!-- Each shader folder contains: -->
-<!-- - .frag (VS2 version) -->
-<!-- - .fs (ISF version, where available) -->
-<!-- - preview.png (screenshot) -->
+#### Eclectic Cubes
 
-*Coming soon.*
+![Eclectic Cubes](shaders/generators/eclectic-cubes/eclectic-cubes.png)
+
+A 3×3×3 grid of cubes rendered with raymarching.
+
+**Files:** [eclectic-cubes.frag](shaders/generators/eclectic-cubes/eclectic-cubes.frag) (VS2) · [eclectic-cubes.fs](shaders/generators/eclectic-cubes/eclectic-cubes.fs) (ISF) · [Demo](https://haraldwalker.github.io/sonicwalker-shaders/shaders/eclectic-cubes)
 
 ## Structure
 
@@ -70,4 +71,4 @@ If these conditions are too restrictive, please contact me.
 
 ---
 
-Made for [VS2 (Visual Synthesizer 2)](https://imaginando.github.io/vs/) by Imaginando.
+Made with ❤️ in East-Westphalia.
