@@ -8,7 +8,7 @@ title: Classic Oscilloscope
 ## Classic Oscilloscope
 
 <video controls preload="none" poster="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/classic-oscilloscope/classic-oscilloscope.png" style="width:100%;border-radius:8px;">
-  <source src="" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/1ca23792-b64d-4cb7-98fe-befbd7b29c39" type="video/mp4">
 </video>
 
 A retro CRT oscilloscope that displays the audio waveform with a green phosphor glow, graticule grid, scanlines, and crosshair. This shader uses VS2's built-in waveform texture and is only available for VS2.
