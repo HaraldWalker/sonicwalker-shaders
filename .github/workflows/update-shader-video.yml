@@ -1,0 +1,58 @@
+name: Update shader video
+
+on:
+  pull_request:
+    types: [opened, edited]
+
+permissions:
+  contents: write
+
+jobs:
+  update-video:
+    runs-on: ubuntu-latest
+    if: github.event.pull_request.head.repo.full_name == github.repository
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Extract video URL and update docs
+        env:
+          PR_BODY: ${{ github.event.pull_request.body }}
+        run: |
+          VIDEO_URL=$(echo "$PR_BODY" | grep -oE 'https://github\.com/user-attachments/assets/[a-f0-9-]+' | head -1)
+
+          if [ -z "$VIDEO_URL" ]; then
+            echo "No video URL found in PR description"
+            exit 0
+          fi
+
+          echo "Found video: $VIDEO_URL"
+
+          DOCS_CHANGED=$(git diff --name-only origin/${{ github.base_ref }}...HEAD -- 'docs/shaders/*.md')
+
+          if [ -z "$DOCS_CHANGED" ]; then
+            echo "No docs/shaders pages changed in this PR"
+            exit 0
+          fi
+
+          for file in $DOCS_CHANGED; do
+            [ -f "$file" ] || continue
+
+            if grep -q '<source src=' "$file"; then
+              sed -i "s|<source src=\"[^\"]*\"|<source src=\"${VIDEO_URL}\"|" "$file"
+              echo "Updated video URL in $file"
+            else
+              echo "No video tag found in $file — skipping"
+            fi
+          done
+
+          if git diff --quiet; then
+            echo "No changes to commit"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add docs/
+            git commit -m "docs: set video URL from PR description"
+            git push
+          fi
