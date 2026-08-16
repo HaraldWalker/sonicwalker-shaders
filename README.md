@@ -37,11 +37,11 @@ Multiple layers of animated rectangles and circles with quantized brightness bas
 
 #### Rotating 3D Rings
 
-![Rotating 3D Rings](shaders/generators/rotating-3d-rings/Image.png)
+![Rotating 3D Rings](shaders/generators/rotating-3d-rings/rotating-3d-rings.png)
 
 Raymarched rotating torus rings with wireframe shading and glow.
 
-**Files:** [rotating-3d-rings.frag](shaders/generators/rotating-3d-rings/rotating-3d-rings.frag) (VS2) · [rotating-3d-rings.fs](shaders/generators/rotating-3d-rings/rotating-3d-rings.fs) (ISF)
+**Files:** [rotating-3d-rings.frag](shaders/generators/rotating-3d-rings/rotating-3d-rings.frag) (VS2) · [rotating-3d-rings.fs](shaders/generators/rotating-3d-rings/rotating-3d-rings.fs) (ISF) · [Demo](https://haraldwalker.github.io/sonicwalker-shaders/shaders/rotating-3d-rings)
 
 ## Structure
 

@@ -7,7 +7,9 @@ title: Rotating 3D Rings
 
 ## Rotating 3D Rings
 
-![Rotating 3D Rings](https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/rotating-3d-rings/Image.png)
+<video controls preload="none" poster="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/rotating-3d-rings/Image.png" style="width:100%;border-radius:8px;">
+  <source src="https://github.com/user-attachments/assets/d857441e-f9ba-4263-883c-29e4299f096d" type="video/mp4">
+</video>
 
 Raymarched rotating torus rings with wireframe shading and glow. Up to 4 concentric rings tilt and spin independently, each with its own speed and direction. In VS2, map audio or MIDI to the parameters to make it reactive.
 
