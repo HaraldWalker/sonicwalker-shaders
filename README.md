@@ -23,19 +23,13 @@ Download the `.fs` file(s) and import them into your ISF-compatible host (VDMX, 
 
 <a href="https://haraldwalker.github.io/sonicwalker-shaders/shaders/eclectic-cubes"><img src="shaders/generators/eclectic-cubes/eclectic-cubes.png" width="320" alt="Eclectic Cubes"></a>
 
-A 3×3×3 grid of cubes rendered with raymarching.
-
 #### Xor Panes
 
 <a href="https://haraldwalker.github.io/sonicwalker-shaders/shaders/xor-panes"><img src="shaders/generators/xor-panes/xor-panes.png" width="320" alt="Xor Panes"></a>
 
-Multiple layers of animated rectangles and circles with quantized brightness based on overlap count.
-
 #### Rotating 3D Rings
 
 <a href="https://haraldwalker.github.io/sonicwalker-shaders/shaders/rotating-3d-rings"><img src="shaders/generators/rotating-3d-rings/rotating-3d-rings.png" width="320" alt="Rotating 3D Rings"></a>
-
-Raymarched rotating torus rings with wireframe shading and glow.
 
 ## Structure
 
