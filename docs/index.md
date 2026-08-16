@@ -26,6 +26,11 @@ title: Shaders
     <h3>Talking Robot</h3>
     <p>Animated robot face with blinking eyes, reactive eyebrows, and morphing mouth</p>
   </a>
+  <a href="{{ site.baseurl }}/shaders/spiral-vortex" class="shader-card">
+    <img src="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/spiral-vortex/spiral-vortex.png" alt="Spiral Vortex" loading="lazy">
+    <h3>Spiral Vortex</h3>
+    <p>Fiery spiral vortex with logarithmic arms and layered noise flames</p>
+  </a>
 </div>
 
 <style>

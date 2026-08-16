@@ -35,6 +35,10 @@ Download the `.fs` file(s) and import them into your ISF-compatible host (VDMX, 
 
 <a href="https://haraldwalker.github.io/sonicwalker-shaders/shaders/talking-robot"><img src="shaders/generators/talking-robot/talking-robot.png" width="320" alt="Talking Robot"></a>
 
+#### Spiral Vortex
+
+<a href="https://haraldwalker.github.io/sonicwalker-shaders/shaders/spiral-vortex"><img src="shaders/generators/spiral-vortex/spiral-vortex.png" width="320" alt="Spiral Vortex"></a>
+
 ## Structure
 
 Each shader lives in its own folder under `shaders/generators/` or `shaders/effects/`:
