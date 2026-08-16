@@ -43,6 +43,10 @@ Download the `.fs` file(s) and import them into your ISF-compatible host (VDMX, 
 
 <a href="https://haraldwalker.github.io/sonicwalker-shaders/shaders/fuzzy-cubes"><img src="shaders/generators/fuzzy-cubes/fuzzy-cubes.png" width="320" alt="Fuzzy Cubes"></a>
 
+#### Classic Oscilloscope
+
+<a href="https://haraldwalker.github.io/sonicwalker-shaders/shaders/classic-oscilloscope"><img src="shaders/generators/classic-oscilloscope/classic-oscilloscope.png" width="320" alt="Classic Oscilloscope"></a>
+
 ## Structure
 
 Each shader lives in its own folder under `shaders/generators/` or `shaders/effects/`:
