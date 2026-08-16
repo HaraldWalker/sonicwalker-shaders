@@ -49,7 +49,7 @@ title: Shaders
   <a href="{{ site.baseurl }}/shaders/smiley-face" class="shader-card">
     <img src="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/smiley-face/smiley-face.png" alt="Smiley Face" loading="lazy">
     <h3>Smiley Face</h3>
-    <p>A smiley face drawn with signed distance functions with animated smile and rotation</p>
+    <p>Simple smiley face with animated smile and rotation</p>
   </a>
 </div>
 
