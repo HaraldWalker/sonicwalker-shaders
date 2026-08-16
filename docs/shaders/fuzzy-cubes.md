@@ -8,7 +8,7 @@ title: Fuzzy Cubes
 ## Fuzzy Cubes
 
 <video controls preload="none" poster="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/fuzzy-cubes/fuzzy-cubes.png" style="width:100%;border-radius:8px;">
-  <source src="" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/ea5a64b2-9203-4b33-ae1e-05bdaa9b28b8" type="video/mp4">
 </video>
 
 A grid of cubes rendered with raymarching, each pulsing at its own speed and phase. The grid rotates slowly on all three axes while volumetric glow accumulates along the ray march. In VS2, map audio or MIDI to the parameters to make it reactive.
