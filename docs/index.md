@@ -11,6 +11,11 @@ title: Shaders
     <h3>Eclectic Cubes</h3>
     <p>A 3×3×3 grid of cubes rendered with raymarching</p>
   </a>
+  <a href="{{ site.baseurl }}/shaders/xor-panes" class="shader-card">
+    <img src="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/xor-panes/xor-panes.png" alt="Xor Panes" loading="lazy">
+    <h3>Xor Panes</h3>
+    <p>Layers of animated rectangles and circles with quantized overlap brightness</p>
+  </a>
 </div>
 
 <style>

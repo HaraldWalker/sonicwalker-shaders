@@ -29,6 +29,8 @@ A 3×3×3 grid of cubes rendered with raymarching. Make it reactive by mapping L
 - [eclectic-cubes.frag](https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/eclectic-cubes/eclectic-cubes.frag) — VS2 version
 - [eclectic-cubes.fs](https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/eclectic-cubes/eclectic-cubes.fs) — ISF version
 
+Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Visual output is free to use — see [README](https://github.com/HaraldWalker/sonicwalker-shaders#using-the-output).
+
 <style>
   .back { display: inline-block; margin-bottom: 1rem; font-size: 0.875rem; }
   table { width: 100%; border-collapse: collapse; margin: 1rem 0; }
