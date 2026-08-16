@@ -31,6 +31,11 @@ title: Shaders
     <h3>Spiral Vortex</h3>
     <p>Fiery spiral vortex with logarithmic arms and layered noise flames</p>
   </a>
+  <a href="{{ site.baseurl }}/shaders/fuzzy-cubes" class="shader-card">
+    <img src="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/fuzzy-cubes/fuzzy-cubes.png" alt="Fuzzy Cubes" loading="lazy">
+    <h3>Fuzzy Cubes</h3>
+    <p>A grid of pulsing cubes with volumetric glow rendered with raymarching</p>
+  </a>
 </div>
 
 <style>

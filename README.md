@@ -39,6 +39,10 @@ Download the `.fs` file(s) and import them into your ISF-compatible host (VDMX, 
 
 <a href="https://haraldwalker.github.io/sonicwalker-shaders/shaders/spiral-vortex"><img src="shaders/generators/spiral-vortex/spiral-vortex.png" width="320" alt="Spiral Vortex"></a>
 
+#### Fuzzy Cubes
+
+<a href="https://haraldwalker.github.io/sonicwalker-shaders/shaders/fuzzy-cubes"><img src="shaders/generators/fuzzy-cubes/fuzzy-cubes.png" width="320" alt="Fuzzy Cubes"></a>
+
 ## Structure
 
 Each shader lives in its own folder under `shaders/generators/` or `shaders/effects/`:
