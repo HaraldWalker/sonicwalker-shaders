@@ -27,6 +27,14 @@ A 3×3×3 grid of cubes rendered with raymarching.
 
 **Files:** [eclectic-cubes.frag](shaders/generators/eclectic-cubes/eclectic-cubes.frag) (VS2) · [eclectic-cubes.fs](shaders/generators/eclectic-cubes/eclectic-cubes.fs) (ISF) · [Demo](https://haraldwalker.github.io/sonicwalker-shaders/shaders/eclectic-cubes)
 
+#### Xor Panes
+
+![Xor Panes](shaders/generators/xor-panes/xor-panes.png)
+
+Multiple layers of animated rectangles and circles with quantized brightness based on overlap count.
+
+**Files:** [xor-panes.frag](shaders/generators/xor-panes/xor-panes.frag) (VS2) · [xor-panes.fs](shaders/generators/xor-panes/xor-panes.fs) (ISF)
+
 ## Structure
 
 Each shader lives in its own folder under `shaders/generators/` or `shaders/effects/`:

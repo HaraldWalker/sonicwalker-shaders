@@ -25,10 +25,15 @@
     header {
       border-bottom: 1px solid var(--border);
       padding: 1.5rem 2rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
     }
     header h1 { font-size: 1.25rem; font-weight: 600; }
     header h1 a { color: var(--text); }
     header h1 a:hover { text-decoration: none; }
+    header nav a { font-size: 0.875rem; color: var(--text-muted); }
+    header nav a:hover { color: var(--text); }
     main {
       max-width: 960px;
       margin: 0 auto;
@@ -42,18 +47,23 @@
       font-size: 0.875rem;
       margin-top: 4rem;
     }
+    footer p + p { margin-top: 0.25rem; }
   </style>
   {% if page.head_extra %}{{ page.head_extra }}{% endif %}
 </head>
 <body>
   <header>
     <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+    <nav>
+      <a href="https://github.com/HaraldWalker/sonicwalker-shaders">GitHub</a>
+    </nav>
   </header>
   <main>
     {{ content }}
   </main>
   <footer>
     <p>Shaders by <a href="https://www.sonicwalker.com">Sonic Walker</a> · Made with ❤️ in East-Westphalia for <a href="https://www.imaginando.pt/products/vs-visual-synthesizer">VS2</a> and ISF compatible software</p>
+    <p>Shader source code licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></p>
   </footer>
 </body>
 </html>
