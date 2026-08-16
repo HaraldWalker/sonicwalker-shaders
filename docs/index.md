@@ -21,6 +21,11 @@ title: Shaders
     <h3>Rotating 3D Rings</h3>
     <p>Raymarched rotating torus rings with wireframe shading and glow</p>
   </a>
+  <a href="{{ site.baseurl }}/shaders/talking-robot" class="shader-card">
+    <img src="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/talking-robot/talking-robot.png" alt="Talking Robot" loading="lazy">
+    <h3>Talking Robot</h3>
+    <p>Animated robot face with blinking eyes, reactive eyebrows, and morphing mouth</p>
+  </a>
 </div>
 
 <style>

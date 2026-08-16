@@ -31,6 +31,10 @@ Download the `.fs` file(s) and import them into your ISF-compatible host (VDMX, 
 
 <a href="https://haraldwalker.github.io/sonicwalker-shaders/shaders/rotating-3d-rings"><img src="shaders/generators/rotating-3d-rings/rotating-3d-rings.png" width="320" alt="Rotating 3D Rings"></a>
 
+#### Talking Robot
+
+<a href="https://haraldwalker.github.io/sonicwalker-shaders/shaders/talking-robot"><img src="shaders/generators/talking-robot/talking-robot.png" width="320" alt="Talking Robot"></a>
+
 ## Structure
 
 Each shader lives in its own folder under `shaders/generators/` or `shaders/effects/`:
