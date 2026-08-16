@@ -35,6 +35,14 @@ Multiple layers of animated rectangles and circles with quantized brightness bas
 
 **Files:** [xor-panes.frag](shaders/generators/xor-panes/xor-panes.frag) (VS2) · [xor-panes.fs](shaders/generators/xor-panes/xor-panes.fs) (ISF) · [Demo](https://haraldwalker.github.io/sonicwalker-shaders/shaders/xor-panes)
 
+#### Rotating 3D Rings
+
+![Rotating 3D Rings](shaders/generators/rotating-3d-rings/Image.png)
+
+Raymarched rotating torus rings with wireframe shading and glow.
+
+**Files:** [rotating-3d-rings.frag](shaders/generators/rotating-3d-rings/rotating-3d-rings.frag) (VS2) · [rotating-3d-rings.fs](shaders/generators/rotating-3d-rings/rotating-3d-rings.fs) (ISF)
+
 ## Structure
 
 Each shader lives in its own folder under `shaders/generators/` or `shaders/effects/`:

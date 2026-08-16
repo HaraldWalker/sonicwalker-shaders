@@ -16,6 +16,11 @@ title: Shaders
     <h3>Xor Panes</h3>
     <p>Layers of animated rectangles and circles with quantized overlap brightness</p>
   </a>
+  <a href="{{ site.baseurl }}/shaders/rotating-3d-rings" class="shader-card">
+    <img src="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/rotating-3d-rings/Image.png" alt="Rotating 3D Rings" loading="lazy">
+    <h3>Rotating 3D Rings</h3>
+    <p>Raymarched rotating torus rings with wireframe shading and glow</p>
+  </a>
 </div>
 
 <style>
