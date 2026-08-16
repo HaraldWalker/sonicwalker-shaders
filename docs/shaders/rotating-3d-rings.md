@@ -7,7 +7,7 @@ title: Rotating 3D Rings
 
 ## Rotating 3D Rings
 
-<video controls preload="none" poster="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/rotating-3d-rings/Image.png" style="width:100%;border-radius:8px;">
+<video controls preload="none" poster="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/rotating-3d-rings/rotating-3d-rings.png" style="width:100%;border-radius:8px;">
   <source src="https://github.com/user-attachments/assets/d857441e-f9ba-4263-883c-29e4299f096d" type="video/mp4">
 </video>
 
