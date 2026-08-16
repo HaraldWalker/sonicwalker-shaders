@@ -8,7 +8,7 @@ title: Spiral Vortex
 ## Spiral Vortex
 
 <video controls preload="none" poster="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/spiral-vortex/spiral-vortex.png" style="width:100%;border-radius:8px;">
-  <source src="" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/fabe4d60-8b26-4113-9d6c-efdf0d33d93f" type="video/mp4">
 </video>
 
 A fiery spiral vortex with logarithmic arms driven by layered fractal noise. Multiple arms wrap around a glowing core, with flame-like detail that shifts over time. In VS2, map audio or MIDI to the parameters to make it reactive.
