@@ -21,27 +21,27 @@ Download the `.fs` file(s) and import them into your ISF-compatible host (VDMX, 
 
 #### Eclectic Cubes
 
-![Eclectic Cubes](shaders/generators/eclectic-cubes/eclectic-cubes.png)
+<a href="https://haraldwalker.github.io/sonicwalker-shaders/shaders/eclectic-cubes"><img src="shaders/generators/eclectic-cubes/eclectic-cubes.png" width="320" alt="Eclectic Cubes"></a>
 
 A 3×3×3 grid of cubes rendered with raymarching.
 
-**Files:** [eclectic-cubes.frag](shaders/generators/eclectic-cubes/eclectic-cubes.frag) (VS2) · [eclectic-cubes.fs](shaders/generators/eclectic-cubes/eclectic-cubes.fs) (ISF) · [Demo](https://haraldwalker.github.io/sonicwalker-shaders/shaders/eclectic-cubes)
+**Files:** [eclectic-cubes.frag](shaders/generators/eclectic-cubes/eclectic-cubes.frag) (VS2) · [eclectic-cubes.fs](shaders/generators/eclectic-cubes/eclectic-cubes.fs) (ISF)
 
 #### Xor Panes
 
-![Xor Panes](shaders/generators/xor-panes/xor-panes.png)
+<a href="https://haraldwalker.github.io/sonicwalker-shaders/shaders/xor-panes"><img src="shaders/generators/xor-panes/xor-panes.png" width="320" alt="Xor Panes"></a>
 
 Multiple layers of animated rectangles and circles with quantized brightness based on overlap count.
 
-**Files:** [xor-panes.frag](shaders/generators/xor-panes/xor-panes.frag) (VS2) · [xor-panes.fs](shaders/generators/xor-panes/xor-panes.fs) (ISF) · [Demo](https://haraldwalker.github.io/sonicwalker-shaders/shaders/xor-panes)
+**Files:** [xor-panes.frag](shaders/generators/xor-panes/xor-panes.frag) (VS2) · [xor-panes.fs](shaders/generators/xor-panes/xor-panes.fs) (ISF)
 
 #### Rotating 3D Rings
 
-![Rotating 3D Rings](shaders/generators/rotating-3d-rings/rotating-3d-rings.png)
+<a href="https://haraldwalker.github.io/sonicwalker-shaders/shaders/rotating-3d-rings"><img src="shaders/generators/rotating-3d-rings/rotating-3d-rings.png" width="320" alt="Rotating 3D Rings"></a>
 
 Raymarched rotating torus rings with wireframe shading and glow.
 
-**Files:** [rotating-3d-rings.frag](shaders/generators/rotating-3d-rings/rotating-3d-rings.frag) (VS2) · [rotating-3d-rings.fs](shaders/generators/rotating-3d-rings/rotating-3d-rings.fs) (ISF) · [Demo](https://haraldwalker.github.io/sonicwalker-shaders/shaders/rotating-3d-rings)
+**Files:** [rotating-3d-rings.frag](shaders/generators/rotating-3d-rings/rotating-3d-rings.frag) (VS2) · [rotating-3d-rings.fs](shaders/generators/rotating-3d-rings/rotating-3d-rings.fs) (ISF)
 
 ## Structure
 
