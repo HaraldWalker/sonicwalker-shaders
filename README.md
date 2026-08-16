@@ -25,23 +25,17 @@ Download the `.fs` file(s) and import them into your ISF-compatible host (VDMX, 
 
 A 3×3×3 grid of cubes rendered with raymarching.
 
-**Files:** [eclectic-cubes.frag](shaders/generators/eclectic-cubes/eclectic-cubes.frag) (VS2) · [eclectic-cubes.fs](shaders/generators/eclectic-cubes/eclectic-cubes.fs) (ISF)
-
 #### Xor Panes
 
 <a href="https://haraldwalker.github.io/sonicwalker-shaders/shaders/xor-panes"><img src="shaders/generators/xor-panes/xor-panes.png" width="320" alt="Xor Panes"></a>
 
 Multiple layers of animated rectangles and circles with quantized brightness based on overlap count.
 
-**Files:** [xor-panes.frag](shaders/generators/xor-panes/xor-panes.frag) (VS2) · [xor-panes.fs](shaders/generators/xor-panes/xor-panes.fs) (ISF)
-
 #### Rotating 3D Rings
 
 <a href="https://haraldwalker.github.io/sonicwalker-shaders/shaders/rotating-3d-rings"><img src="shaders/generators/rotating-3d-rings/rotating-3d-rings.png" width="320" alt="Rotating 3D Rings"></a>
 
 Raymarched rotating torus rings with wireframe shading and glow.
-
-**Files:** [rotating-3d-rings.frag](shaders/generators/rotating-3d-rings/rotating-3d-rings.frag) (VS2) · [rotating-3d-rings.fs](shaders/generators/rotating-3d-rings/rotating-3d-rings.fs) (ISF)
 
 ## Structure
 
@@ -73,7 +67,7 @@ The visual output produced by running these shaders is yours to use. VJ at a par
 If you're making money from it, I'd really appreciate it if you'd support my music. No obligation, just good karma.
 
 - **Buy my music**
-- **Gift my music with a friend**
+- **Gift my music to a friend**
 - **Or just spread the word**
 
 You can find my music at [sonicwalker.com](https://www.sonicwalker.com).
@@ -83,7 +77,6 @@ If these conditions are too restrictive, please contact me.
 ## Author
 
 **Harald Walker** / Sonic Walker
-- [sonicwalker.com](https://www.sonicwalker.com)
 
 ---
 
