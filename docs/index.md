@@ -44,8 +44,13 @@ title: Shaders
 <a href="{{ site.baseurl }}/shaders/spectral-terrain-grid" class="shader-card">
   <img src="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/spectral-terrain-grid/spectral-terrain-grid.png" alt="Spectral Terrain Grid" loading="lazy">
   <h3>Spectral Terrain Grid</h3>
-  <p>Wireframe terrain shaped by the live audio spectrum with frequency-coloured grid lines</p>
-</a>
+    <p>Wireframe terrain shaped by the live audio spectrum with frequency-coloured grid lines</p>
+  </a>
+  <a href="{{ site.baseurl }}/shaders/smiley-face" class="shader-card">
+    <img src="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/smiley-face/smiley-face.png" alt="Smiley Face" loading="lazy">
+    <h3>Smiley Face</h3>
+    <p>A smiley face drawn with signed distance functions with animated smile and rotation</p>
+  </a>
 </div>
 
 <style>
