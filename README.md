@@ -17,43 +17,9 @@ Download the `.fs` file(s) and import them into your ISF-compatible host (VDMX, 
 
 ## Shaders
 
-### Generators
+[![Shader Gallery](shader-gallery.jpg)](https://haraldwalker.github.io/sonicwalker-shaders/)
 
-#### Eclectic Cubes
-
-<a href="https://haraldwalker.github.io/sonicwalker-shaders/shaders/eclectic-cubes"><img src="shaders/generators/eclectic-cubes/eclectic-cubes.png" width="320" alt="Eclectic Cubes"></a>
-
-#### Xor Panes
-
-<a href="https://haraldwalker.github.io/sonicwalker-shaders/shaders/xor-panes"><img src="shaders/generators/xor-panes/xor-panes.png" width="320" alt="Xor Panes"></a>
-
-#### Rotating 3D Rings
-
-<a href="https://haraldwalker.github.io/sonicwalker-shaders/shaders/rotating-3d-rings"><img src="shaders/generators/rotating-3d-rings/rotating-3d-rings.png" width="320" alt="Rotating 3D Rings"></a>
-
-#### Talking Robot
-
-<a href="https://haraldwalker.github.io/sonicwalker-shaders/shaders/talking-robot"><img src="shaders/generators/talking-robot/talking-robot.png" width="320" alt="Talking Robot"></a>
-
-#### Spiral Vortex
-
-<a href="https://haraldwalker.github.io/sonicwalker-shaders/shaders/spiral-vortex"><img src="shaders/generators/spiral-vortex/spiral-vortex.png" width="320" alt="Spiral Vortex"></a>
-
-#### Fuzzy Cubes
-
-<a href="https://haraldwalker.github.io/sonicwalker-shaders/shaders/fuzzy-cubes"><img src="shaders/generators/fuzzy-cubes/fuzzy-cubes.png" width="320" alt="Fuzzy Cubes"></a>
-
-#### Classic Oscilloscope
-
-<a href="https://haraldwalker.github.io/sonicwalker-shaders/shaders/classic-oscilloscope"><img src="shaders/generators/classic-oscilloscope/classic-oscilloscope.png" width="320" alt="Classic Oscilloscope"></a>
-
-#### Spectral Terrain Grid
-
-<a href="https://haraldwalker.github.io/sonicwalker-shaders/shaders/spectral-terrain-grid"><img src="shaders/generators/spectral-terrain-grid/spectral-terrain-grid.png" width="320" alt="Spectral Terrain Grid"></a>
-
-#### Smiley Face
-
-<a href="https://haraldwalker.github.io/sonicwalker-shaders/shaders/smiley-face"><img src="shaders/generators/smiley-face/smiley-face.png" width="320" alt="Smiley Face"></a>
+Browse all shaders with parameters, previews, and download links on the **[shader gallery](https://haraldwalker.github.io/sonicwalker-shaders/)**.
 
 ## Structure
 
