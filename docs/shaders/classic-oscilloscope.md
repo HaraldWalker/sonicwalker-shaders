@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: shader
 title: Classic Oscilloscope
 ---
-
-<a href="{{ site.baseurl }}/" class="back">&larr; All shaders</a>
 
 ## Classic Oscilloscope
 
@@ -31,12 +29,3 @@ A retro CRT oscilloscope that displays the audio waveform with a green phosphor 
 
 This shader requires VS2's built-in audio waveform texture and has no ISF version.
 
-Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Visual output is free to use — see [README](https://github.com/HaraldWalker/sonicwalker-shaders#using-the-output).
-
-<style>
-  .back { display: inline-block; margin-bottom: 1rem; font-size: 0.875rem; }
-  table { width: 100%; border-collapse: collapse; margin: 1rem 0; }
-  th, td { text-align: left; padding: 0.5rem 0.75rem; border-bottom: 1px solid var(--border); }
-  th { color: var(--text-muted); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; }
-  td code { font-size: 0.85em; }
-</style>
