@@ -43,8 +43,16 @@ jobs:
             if grep -q '<source src=' "$file"; then
               sed -i "s|<source src=\"[^\"]*\"|<source src=\"${VIDEO_URL}\"|" "$file"
               echo "Updated video URL in $file"
+            elif grep -q '<img ' "$file"; then
+              POSTER=$(grep -oE 'src="https://raw\.githubusercontent\.com/[^"]*\.png"' "$file" | head -1 | sed 's/src="//;s/"$//')
+              if [ -n "$POSTER" ]; then
+                sed -i "s|<img [^>]*>|<video controls preload=\"none\" poster=\"${POSTER}\" style=\"width:100%;border-radius:8px;\">\n  <source src=\"${VIDEO_URL}\" type=\"video/mp4\">\n</video>|" "$file"
+                echo "Converted img to video in $file"
+              else
+                echo "Found <img> but no poster URL in $file — skipping"
+              fi
             else
-              echo "No video tag found in $file — skipping"
+              echo "No video or img tag found in $file — skipping"
             fi
           done
 

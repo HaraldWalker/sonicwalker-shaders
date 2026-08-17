@@ -7,7 +7,9 @@ title: Fire Tunnel
 
 ## Fire Tunnel
 
-<img src="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/fire-tunnel/fire-tunnel.png" alt="Fire Tunnel" style="width:100%;border-radius:8px;">
+<video controls preload="none" poster="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/fire-tunnel/fire-tunnel.png" style="width:100%;border-radius:8px;">
+  <source src="" type="video/mp4">
+</video>
 
 A first-person flight through a twisting fire tunnel with procedural flame walls. The camera follows a curved path while layered noise generates flickering fire along the tunnel walls. In VS2, map audio or MIDI to the parameters to make it reactive.
 

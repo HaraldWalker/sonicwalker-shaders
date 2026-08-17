@@ -7,7 +7,9 @@ title: Spectral Cosmic Bands
 
 ## Spectral Cosmic Bands
 
-<img src="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/spectral-cosmic-bands/spectral-cosmic-bands.png" alt="Spectral Cosmic Bands" style="width:100%;border-radius:8px;">
+<video controls preload="none" poster="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/spectral-cosmic-bands/spectral-cosmic-bands.png" style="width:100%;border-radius:8px;">
+  <source src="" type="video/mp4">
+</video>
 
 Audio-reactive raymarched ribbons and wave field driven by FFT frequency bands. Two twisting ribbon manifolds and a rippling ground plane respond to bass, mids, and highs, with volumetric glow and depth-based colour shifting.
 
