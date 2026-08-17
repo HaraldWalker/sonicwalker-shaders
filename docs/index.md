@@ -51,6 +51,16 @@ title: Shaders
     <h3>Smiley Face</h3>
     <p>Simple smiley face with animated smile and rotation</p>
   </a>
+  <a href="{{ site.baseurl }}/shaders/clouds-on-fire" class="shader-card">
+    <img src="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/clouds-on-fire/clouds-on-fire.png" alt="Clouds on Fire" loading="lazy">
+    <h3>Clouds on Fire</h3>
+    <p>Spiral fire clouds with layered fractal noise and glowing ember core</p>
+  </a>
+  <a href="{{ site.baseurl }}/shaders/fire-tunnel" class="shader-card">
+    <img src="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/fire-tunnel/fire-tunnel.png" alt="Fire Tunnel" loading="lazy">
+    <h3>Fire Tunnel</h3>
+    <p>First-person flight through a twisting fire tunnel with procedural flame walls</p>
+  </a>
 </div>
 
 <style>
