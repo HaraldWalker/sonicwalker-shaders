@@ -61,6 +61,11 @@ title: Shaders
     <h3>Fire Tunnel</h3>
     <p>First-person flight through a twisting fire tunnel with procedural flame walls</p>
   </a>
+  <a href="{{ site.baseurl }}/shaders/spectral-cosmic-bands" class="shader-card">
+    <img src="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/spectral-cosmic-bands/spectral-cosmic-bands.png" alt="Spectral Cosmic Bands" loading="lazy">
+    <h3>Spectral Cosmic Bands</h3>
+    <p>Audio-reactive raymarched ribbons and wave field driven by FFT frequency bands</p>
+  </a>
 </div>
 
 <style>
