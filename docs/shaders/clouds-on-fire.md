@@ -8,7 +8,7 @@ title: Clouds on Fire
 ## Clouds on Fire
 
 <video controls preload="none" poster="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/clouds-on-fire/clouds-on-fire.png" style="width:100%;border-radius:8px;">
-  <source src="" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/d3440a56-ee85-4122-9e83-679a07caf1b4" type="video/mp4">
 </video>
 
 Spiral fire clouds with layered fractal noise and a glowing ember core. The spiral arm pattern blends with fbm noise to create flame-like clouds that radiate outward from the center.
