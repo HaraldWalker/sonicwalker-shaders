@@ -6,7 +6,7 @@ title: Reactive Voxel Tunnel
 ## Reactive Voxel Tunnel
 
 <video controls preload="none" poster="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/reactive-voxel-tunnel/reactive-voxel-tunnel.png" style="width:100%;border-radius:8px;">
-  <source src="" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/4f44cf1f-99ac-4f0a-ab9a-ed996a2060e3" type="video/mp4">
 </video>
 
 Audio-reactive first-person flight through a raymarched voxel tunnel driven by FFT frequency bands. Bass pulses the octahedron voxel size, mids breathe the tunnel width and weave, and highs add shimmer to the glow trails, with a cool-to-warm colour shift palette.
