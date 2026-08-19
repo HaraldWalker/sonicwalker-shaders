@@ -66,6 +66,11 @@ title: Shaders
     <h3>Spectral Cosmic Bands</h3>
     <p>Audio-reactive raymarched ribbons and wave field driven by FFT frequency bands</p>
   </a>
+  <a href="{{ site.baseurl }}/shaders/reactive-voxel-tunnel" class="shader-card">
+    <img src="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/reactive-voxel-tunnel/reactive-voxel-tunnel.png" alt="Reactive Voxel Tunnel" loading="lazy">
+    <h3>Reactive Voxel Tunnel</h3>
+    <p>Audio-reactive raymarched voxel tunnel with bass-pulsing octahedrons and FFT-driven glow</p>
+  </a>
 </div>
 
 <style>
