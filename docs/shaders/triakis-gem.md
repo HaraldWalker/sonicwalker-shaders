@@ -6,7 +6,7 @@ title: Triakis Gem
 ## Triakis Gem
 
 <video controls preload="none" poster="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/triakis-gem/triakis-gem.png" style="width:100%;border-radius:8px;">
-  <source src="" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/1c797220-77f6-4f5a-919c-437770050cc4" type="video/mp4">
 </video>
 
 A raymarched octahedron gem with faceted ridges, a green-to-amber gradient, and dark edge lines. The shape rotates slowly with a gentle bob, and light sweeps across the faces.
