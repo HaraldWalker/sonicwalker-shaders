@@ -71,6 +71,11 @@ title: Shaders
     <h3>Reactive Voxel Tunnel</h3>
     <p>Audio-reactive raymarched voxel tunnel with bass-pulsing octahedrons and FFT-driven glow</p>
   </a>
+  <a href="{{ site.baseurl }}/shaders/spectral-sheet" class="shader-card">
+    <img src="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/spectral-sheet/spectral-sheet.png" alt="Spectral Sheet" loading="lazy">
+    <h3>Spectral Sheet</h3>
+    <p>FFT-driven undulating sheet with wind-blown waves and helical twist</p>
+  </a>
 </div>
 
 <style>
