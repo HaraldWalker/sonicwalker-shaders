@@ -6,7 +6,7 @@ title: Spectral Sheet
 ## Spectral Sheet
 
 <video controls preload="none" poster="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/spectral-sheet/spectral-sheet.png" style="width:100%;border-radius:8px;">
-  <source src="" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/c8390aa0-cdaa-4a44-baa1-96fdd1470cb1" type="video/mp4">
 </video>
 
 A continuous undulating sheet whose height is driven by the FFT spectrum. Waves travel along the surface creating a wind-blown fabric effect, with twist spiraling the spectrum pattern into a helical ribbon — bass on the left, treble on the right.
