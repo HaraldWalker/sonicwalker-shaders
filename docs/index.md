@@ -76,6 +76,11 @@ title: Shaders
     <h3>Spectral Sheet</h3>
     <p>FFT-driven undulating sheet with wind-blown waves and helical twist</p>
   </a>
+  <a href="{{ site.baseurl }}/shaders/triakis-gem" class="shader-card">
+    <img src="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/triakis-gem/triakis-gem.png" alt="Triakis Gem" loading="lazy">
+    <h3>Triakis Gem</h3>
+    <p>Raymarched octahedron gem with faceted ridges and green-to-amber gradient</p>
+  </a>
 </div>
 
 <style>
