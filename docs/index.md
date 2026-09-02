@@ -81,6 +81,11 @@ title: Shaders
     <h3>Triakis Gem</h3>
     <p>Raymarched octahedron gem with faceted ridges and green-to-amber gradient</p>
   </a>
+  <a href="{{ site.baseurl }}/shaders/datamosh-riot" class="shader-card">
+    <img src="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/datamosh-riot/datamosh-riot.png" alt="Datamosh Riot" loading="lazy">
+    <h3>Datamosh Riot</h3>
+    <p>Broken-broadcast riot with row/column shifts, RGB split, block corruption and scanlines</p>
+  </a>
 </div>
 
 <style>
