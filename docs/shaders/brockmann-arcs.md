@@ -6,7 +6,7 @@ title: Brockmann Arcs
 ## Brockmann Arcs
 
 <video controls preload="none" poster="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/brockmann-arcs/brockmann-arcs.png" style="width:100%;border-radius:8px;">
-  <source src="" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/4b3504cd-3825-44b8-8df1-71f2b55ff0f0" type="video/mp4">
 </video>
 
 Concentric arc bands inspired by Josef Müller-Brockmann's 1955 *Beethoven* concert poster. Each band is independently rotated, swept, and quantized to a pola
