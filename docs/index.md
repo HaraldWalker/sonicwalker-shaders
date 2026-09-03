@@ -86,6 +86,11 @@ title: Shaders
     <h3>Datamosh Riot</h3>
     <p>Broken-broadcast riot with row/column shifts, RGB split, block corruption and scanlines</p>
   </a>
+  <a href="{{ site.baseurl }}/shaders/brockmann-arcs" class="shader-card">
+    <img src="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/brockmann-arcs/brockmann-arcs.png" alt="Brockmann Arcs" loading="lazy">
+    <h3>Brockmann Arcs</h3>
+    <p>Concentric arc bands with quantized polar grid rotation and ease</p>
+  </a>
 </div>
 
 <style>
