@@ -9,7 +9,7 @@ title: Brockmann Arcs
   <source src="" type="video/mp4">
 </video>
 
-Concentric arc bands inspired by Josef Müller-Brockmann's 1955 *Beethoven* concert poster. Each band is independently rotated, swept, and quantized to a polar grid, with a slow spin and ease curve shaping how the rings fan outward.
+Concentric arc bands inspired by Josef Müller-Brockmann's 1955 Beethoven concert poster and Karl Gerstner's modular grid experiments from the Brockmann-era pattern studies. Each band is independently rotated, swept, and quantized to a polar grid, with a slow spin and ease curve shaping how the rings fan outward.
 
 ### Parameters
 
