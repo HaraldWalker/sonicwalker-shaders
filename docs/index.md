@@ -91,6 +91,11 @@ title: Shaders
     <h3>Brockmann Arcs</h3>
     <p>Concentric arc bands with quantized polar grid rotation and ease</p>
   </a>
+  <a href="{{ site.baseurl }}/shaders/hiding-squares" class="shader-card">
+    <img src="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/hiding-squares/hiding-squares.png" alt="Hiding Squares" loading="lazy">
+    <h3>Hiding Squares</h3>
+    <p>A grid of squares animated with noise-driven rotation, translation, and scale</p>
+  </a>
 </div>
 
 <style>
