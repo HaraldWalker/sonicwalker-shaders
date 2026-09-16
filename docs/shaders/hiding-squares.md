@@ -6,7 +6,7 @@ title: Hiding Squares
 ## Hiding Squares
 
 <video controls preload="none" poster="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/hiding-squares/hiding-squares.png" style="width:100%;border-radius:8px;">
-  <source src="" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/356f8096-191c-42f7-bd1d-c62dda65dcbd" type="video/mp4">
 </video>
 
 A grid of squares animated with noise-driven rotation, translation, and scale transformations. Each square's movement intensity is controlled by a noise field seeded from the grid position, creating an organic hiding/revealing effect.
