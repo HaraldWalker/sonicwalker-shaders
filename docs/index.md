@@ -96,6 +96,16 @@ title: Shaders
     <h3>Hiding Squares</h3>
     <p>A grid of squares animated with noise-driven rotation, translation, and scale</p>
   </a>
+  <a href="{{ site.baseurl }}/shaders/cubic-tunnel" class="shader-card">
+    <img src="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/cubic-tunnel/cubic-tunnel.png" alt="Cubic Tunnel" loading="lazy">
+    <h3>Cubic Tunnel</h3>
+    <p>Raymarched tunnel of colored cubic cells with curved path and camera rotation</p>
+  </a>
+  <a href="{{ site.baseurl }}/shaders/psycho-space-acid" class="shader-card">
+    <img src="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/psycho-space-acid/psycho-space-acid.png" alt="Psycho Space Acid" loading="lazy">
+    <h3>Psycho Space Acid</h3>
+    <p>Pixelated acid cube room with stepped camera cuts, rolling patterns and stutter</p>
+  </a>
 </div>
 
 <style>
