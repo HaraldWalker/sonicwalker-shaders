@@ -6,7 +6,7 @@ title: Psycho Space Acid
 ## Psycho Space Acid
 
 <video controls preload="none" poster="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/psycho-space-acid/psycho-space-acid.png" style="width:100%;border-radius:8px;">
-  <source src="" type="video/mp4">
+  <source src=" https://github.com/user-attachments/assets/d3ad382c-abf6-4c4d-ad65-67fa80aacf4c" type="video/mp4">
 </video>
 
 A pixelated psychedelic scene with a floating cube inside a patterned room. Camera angles, cube proportions, and per-surface acid patterns are re-rolled in stepped cuts, with random stutter freezes and a kick flash that washes the image white.
