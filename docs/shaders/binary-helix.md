@@ -6,7 +6,7 @@ title: Binary Helix
 ## Binary Helix
 
 <video controls preload="none" poster="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/binary-helix/binary-helix.png" style="width:100%;border-radius:8px;">
-  <source src="" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/0a71def7-5650-4e56-90cf-1b551ab9c53f" type="video/mp4">
 </video>
 
 A rotating double helix of glowing binary digits connected by luminous strands, with depth blur that softens elements toward the camera and drifting binary particles at three depths. Digits occasionally flip bits and the rungs fade as they turn toward the viewer.
