@@ -106,6 +106,11 @@ title: Shaders
     <h3>Psycho Space Acid</h3>
     <p>Pixelated acid cube room with stepped camera cuts, rolling patterns and stutter</p>
   </a>
+  <a href="{{ site.baseurl }}/shaders/binary-helix" class="shader-card">
+    <img src="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/binary-helix/binary-helix.png" alt="Binary Helix" loading="lazy">
+    <h3>Binary Helix</h3>
+    <p>Rotating double helix of glowing binary digits with depth blur and drifting particles</p>
+  </a>
 </div>
 
 <style>
