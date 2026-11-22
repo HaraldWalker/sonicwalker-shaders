@@ -6,7 +6,7 @@ title: Hyperspeed
 ## Hyperspeed
 
 <video controls preload="none" poster="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/hyperspeed/hyperspeed.png" style="width:100%;border-radius:8px;">
-  <source src="" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/915d0de4-7ba7-4fe4-b62e-e32ffeb91cdf" type="video/mp4">
 </video>
 
 A warp-speed corridor of light streaks fanning out from a vanishing point like a hyperspace jump. Perspective side walls, ceiling and floor carry stretched noise filaments around a luminous central seam, with drifting black voids along the edges.
