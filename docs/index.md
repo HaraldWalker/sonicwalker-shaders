@@ -111,6 +111,11 @@ title: Shaders
     <h3>Binary Helix</h3>
     <p>Rotating double helix of glowing binary digits with depth blur and drifting particles</p>
   </a>
+  <a href="{{ site.baseurl }}/shaders/hyperspeed" class="shader-card">
+    <img src="https://raw.githubusercontent.com/HaraldWalker/sonicwalker-shaders/main/shaders/generators/hyperspeed/hyperspeed.png" alt="Hyperspeed" loading="lazy">
+    <h3>Hyperspeed</h3>
+    <p>Warp-speed streaks fanning out from a luminous central seam with drifting voids</p>
+  </a>
 </div>
 
 <style>
